@@ -1,2 +1,2 @@
-# Telecome-Customer-Churn-Prediction
+# Telecom-Customer-Churn-Prediction
 Predict Customer Churn
